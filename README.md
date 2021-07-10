@@ -6,23 +6,27 @@ YouTube : https://www.youtube.com/channel/UCqzNRcE2KEsBHLaVdinakZg
 My Blog : https://j-dev.hashnode.dev/
 
 Languages
+
 JavaScript
 Java
 Kotlin
 Python
 
 Frontend
+
 HTML / CSS 
 React 
 Material You
 
 Backend
+
 Node Js
 Django
 Firebase
 
 
 Databases
+
 SQL / Postgres
 Oracle DB
 Cloud Firestore
