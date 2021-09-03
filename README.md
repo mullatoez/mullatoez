@@ -20,6 +20,6 @@ Python
 
 Databases
 
-SQL / Postgres
+MySQL / Postgres
 Oracle DB
 Cloud Firestore
