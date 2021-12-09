@@ -1,7 +1,7 @@
 Hi, I'm Kimkim 👋
 
- - Android developer using Kotlin
+ - Android Software Engineer
  - Data Science enthusiast
- - Currently learning Java EE, ExtJs & Postgres
+ - Java Enterprise Developer
 
 
