@@ -1,4 +1,4 @@
-Hi, I'm Kimkim 👋
+Hi, I'm Kimanthi K. 👋
 
  - Full-Stack Software Engineer
  - Spring-Boot Developer
