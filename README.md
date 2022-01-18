@@ -4,6 +4,7 @@ Hi, I'm Kimkim 👋
  - Spring-Boot Developer
  - IOS & Android developer(Kotlin & Flutter)
  - Relational Databases (MySQL, POSTGRESQL & ORACLE)
+ - NoSQL Databases (Firebase)
  - Data Science enthusiast
  - EXTJS 
  - REACT
