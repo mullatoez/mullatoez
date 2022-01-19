@@ -1,6 +1,5 @@
 Hi, I'm Kimanthi K. 👋
-
- - Full-Stack Software Engineer
+I have a notable experience working with the following technologies
  - Spring-Boot Developer
  - IOS & Android developer(Kotlin & Flutter)
  - Relational Databases (MySQL, POSTGRESQL & ORACLE)
