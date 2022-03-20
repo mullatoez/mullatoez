@@ -6,6 +6,7 @@ I have a notable experience working with the following technologies and I like c
  - NoSQL Databases (Firebase)
  - Data Science (Python)
  - EXTJS 
- - REACT
+ - REACT (Learning)
+ - AWS 
 
 
