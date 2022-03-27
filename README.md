@@ -7,6 +7,6 @@ I build with code alongside coffee
  - EXTJS 
  - REACT (Learning)
  - AWS 
-LET'S GO!
+- LET'S GO!
 
 
