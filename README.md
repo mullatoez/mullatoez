@@ -1,5 +1,5 @@
 Hi,👋
-I have a notable experience working with the following technologies and I like coffee
+I build with code alongside coffee
  - Spring-Boot 
  - IOS & Android (Flutter/Swift & Kotlin)
  - Relational Databases (MySQL & PostgreSQL)
@@ -7,5 +7,6 @@ I have a notable experience working with the following technologies and I like c
  - EXTJS 
  - REACT (Learning)
  - AWS 
+LET'S GO!
 
 
