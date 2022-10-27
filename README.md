@@ -1,6 +1,6 @@
 Hi,👋
-I build with code alongside coffee
- - app dev ios & android
+
+ - I develop apps for android. Sometimes ios too.
  - I write apis using spring
  - I host with aws
 
